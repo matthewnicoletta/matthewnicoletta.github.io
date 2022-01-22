@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MS in Business Analytics, Georgetown University, 2022 (expected)
-* MBA Georgetown University, 2021
+* MBA, Georgetown University, 2021
 * BA in Language & International Trade, Clemson University, 2003
 * BA in Modern Languages, Clemson University, 2003
 
