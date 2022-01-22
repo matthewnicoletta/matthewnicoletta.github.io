@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MS in Business Analytics, Georgetown University, 2022 (expected)
+* MBA Georgetown University, 2021
+* BA in Language & International Trade, Clemson University, 2003
+* BA in Modern Languages, Clemson University, 2003
 
 Work experience
 ======
