@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# {% include base_path %}
 
-Work experience
+Professional Experience
 =====
 * Summer 2015: Research Assistant
   * Github University
