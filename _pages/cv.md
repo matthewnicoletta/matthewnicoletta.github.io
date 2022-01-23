@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# {% include base_path %}
-
 Professional Experience
 =====
 * Summer 2015: Research Assistant
