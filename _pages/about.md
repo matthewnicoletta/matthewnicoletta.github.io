@@ -10,6 +10,3 @@ redirect_from:
 
 Hi, I'm Matt. I use data science techniques including machine learning and deep learning to solve business challenges. I have 17 years of experience in financial services with domain expertise in digital marketing and performance analytics. You can see some examples of my work on [github](https://github.com/matthewnicoletta). I hold an MBA from Georgetown University's McDonough School of Business and am currently pursuing an MS in Business Analytics also at Georgetown.
 
-Contact Me
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website 
