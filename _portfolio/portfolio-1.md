@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Intelligent Infrastructure Management"
+excerpt: "Using AI to assess and predict the condition of road assets to inform contract bid pricing <br/><img src='/images/iim.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Intelligent Infrastructure Management (IIM) uses AI-powered computer vision and classification algorithms to identify road assets and assess their current condition. Using environmental data, IIM predicts road each asset's remaining usable life. Data sources include high-resolution satellite imagery, LIDAR, fixed traffic camera feeds, and crowdsourced vehicle mounted cameras. Understanding road asset conditions and predicting their remaining usable life is an important aspect of contrct bidding for state-based long-term contracts such as Virginia's Turnkey Asset Management Program (TAMS) as well as Public-Private Partnership (P3) development projects. IIM was both a proof of concept that AI models can be useful in developing contract bids as well as a buisness framework and product roadmap for monetizing this technology. This project was my Executive MBA Capstone, performed as part of a team. 
