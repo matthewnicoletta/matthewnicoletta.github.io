@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Infrastructure Management"
-excerpt: "Using AI to assess and predict the condition of road assets to inform contract bid pricing <br/><img src='/images/iim.png'>"
+excerpt: "Using AI to assess and predict the condition of road assets to inform contract bid pricing <br/><img src='/images/iim.png' width=500 height=300>"
 collection: portfolio
 ---
 
