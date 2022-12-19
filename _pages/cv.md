@@ -11,6 +11,9 @@ Seasoned data-driven financial services sector leader with domain expertise in d
 
 Professional Experience
 =====
+**Instructor @ Georgetown University McDonough School of Business Office of Alumni Engagement (2/22 - present)**
+* Teach technical and personal finance skills workshops to business school alumni
+
 **Lending Program & Analytics Manager @ Bank-Fund Staff Federal Credit Union (11/18 - 4/20)**
 * Led a team of 5 analysts for data mining and business intelligence tasks, including dashboarding and reporting. Developed and executed roadmaps for key system enhancements emphasizing data collection and analysis. 
 
@@ -22,7 +25,7 @@ Professional Experience
 
 Education
 =====
-* MS in Business Analytics, Georgetown University, 2022 (expected)
+* MS in Business Analytics, Georgetown University, 2022
 * MBA, Georgetown University, 2021
 * BA in Language & International Trade, Clemson University, 2003
 * BA in Modern Languages, Clemson University, 2003
