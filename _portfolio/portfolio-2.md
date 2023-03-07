@@ -1,6 +1,6 @@
 ---
 title: "Yelp Hotel Reviews Topic Modeling"
-excerpt: "Using AI to assess the condition and predict the remaining useful life of road assets to inform contract bid pricing <br/><img src='/images/YelpProject.png' width=500 height=300>"
+excerpt: "Gleaning insight from Yelp hotel reviews using topic modeling, n-grams and word clouds.<br/><img src='/images/YelpProject.png' width=500 height=300>"
 collection: portfolio
 ---
 
