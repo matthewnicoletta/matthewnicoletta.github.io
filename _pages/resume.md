@@ -1,21 +1,23 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Seasoned data-driven financial services sector leader with domain expertise in digital marketing and performance analytics.
+Professional Profile
+=====
+Seasoned analytics expert with an extensive background in managing analytics teams responsible for business intelligence and marketing analytics. Domain expertise in digital marketing and financial services. Strong working knowledge of statistical methods, predictive modeling, and applied machine learning. Key technical skills: SQL, Python, Tableau Desktop. Certifications: AWS Cloud Practitioner and Google Analytics Individual Qualification (IQ). Education: MBA and MS in Business Analytics.
 
 Professional Experience
 =====
 **Instructor @ Georgetown University McDonough School of Business Office of Alumni Engagement (2/22 - present)**
-* Teach technical and personal finance skills workshops to business school alumni
+* I design and deliver skills workshops for Alumni and students of McDonough School of Business, teaching programming (Python, R)  and software such as Excel for data science, data visualization, and personal finance applications.
 
 **Lending Program & Analytics Manager @ Bank-Fund Staff Federal Credit Union (11/18 - 4/20)**
-* Led a team of 5 analysts for data mining and business intelligence tasks, including dashboarding and reporting. Developed and executed roadmaps for key system enhancements emphasizing data collection and analysis. 
+* Led the Analytics & Insights team of 5 analysts responsible for lending departmental business intelligence, including KPI benchmarking, reporting, and visualization (dashboarding). 
 
 **E-Marketing Manager @ Bank-Fund Staff Federal Credit Union (4/11 - 11/18)**
 * Oversaw digital marketing strategy and execution efforts, with P&L responsibility for all paid, owned, and earned traffic. Key accomplishments included developing a successful data-driven, segmented e-mail marketing and social media strategy and leading a corporate digital rebranding effort.   
@@ -25,10 +27,10 @@ Professional Experience
 
 Education
 =====
-* MS in Business Analytics, Georgetown University, 2022
-* MBA, Georgetown University, 2021
-* BA in Language & International Trade, Clemson University, 2003
-* BA in Modern Languages, Clemson University, 2003
+* MS in Business Analytics, Georgetown University
+* MBA, Georgetown University
+* BA in Language & International Trade, Clemson University
+* BA in Modern Languages, Clemson University
 
 Service and leadership
 =====
