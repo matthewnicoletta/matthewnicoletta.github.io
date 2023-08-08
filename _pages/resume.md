@@ -22,11 +22,15 @@ Professional Experience
 Consulting Project Experience
 =====
 **U.S. Census Bureau, Office of Enterprise Dissemination - Washington, DC (4/22 - 12/22)**
-Project: Analyzing User Experience and Media Representation of Bureau Data
+
+Project Title: Analyzing User Experience and Media Representation of Bureau Data
+
 Helped the bureau better understand user interactions and experience with www.census.gov. Used web scraping and natural language processing techniques to analyze data from user-generated inquiries, site usage, survey responses, and text of news articles to identify areas for user experience improvements. Recommended website interface improvements and a related communication strategy.
 
 **StoneCo, LTD (STNE) - Sao Paulo, Brazil (4/20 - 7/20)**
-Evaluating Inorganic Growth Strategy Models
+
+Project Title: Evaluating Inorganic Growth Strategy Models
+
 StoneCo is a leading provider of merchant financial technology, payment, and credit solutions to small and medium size businesses in Brazil. The company was beginning to make acquisitions in related verticals and wanted an inorganic growth strategy to maximize ROI. Researched aggregator and integrator acquisition models and developed frameworks for evaluating target companies under each model. Recommended an integrator strategy focused on complementing StoneCo’s core offerings.
 
 Education & Honors
@@ -34,24 +38,25 @@ Education & Honors
 **Georgetown University**
 * MS in Business Analytics
 * Executive MBA
+
 **Clemson University**
 * BA in Language & International Trade
 * BA in Modern Languages
 
 **Academic Distinctions**
-* GU MSBA Pinnacle Community Award (2022)
-* GU MSBA Merit Scholarship Recipient (2021)
-* GU McDonough Scholar - Top 10% of Class (2021)
-* Beta Gamma Sigma Honor Society - Top 20% of Class (2021),
+* GU MSBA Pinnacle Community Award
+* GU MSBA Merit Scholarship Recipient
+* GU McDonough Scholar - Top 10% of Class
+* Beta Gamma Sigma Honor Society - Top 20% of Class
 * Phi Sigma Pi National Honor Fraternity
 
 **CU Times TRAILBLAZER 40 BELOW**
-Named a 2014 TRAILBLAZER 40 BELOW by CU Times, the leading national credit union industry journal.
+Named a 2014 <a href='https://www.cutimes.com/2014/09/19/nicoletta-embraces-risk-for-solutions-that-resonate-t40b/?t=trailblazers-40-below&slreturn=20230708181619'>TRAILBLAZER 40 BELOW</a> by CU Times, the leading national credit union industry journal.
 Recipients are credit union professionals under the age of 40 who have made an impact at their credit union or
 within the industry. Nominated by my peers for my creative problem-solving and team leadership.
 
 Service and leadership
 =====
 * Volunteer Interviewer for McDonough School of Business EMBA Candidates (2021)
-* President / Board Member for Phi Sigma Pi National Honor Fraternity (2008 - 2018)
+* National President / Board Member for Phi Sigma Pi National Honor Fraternity (2008 - 2018)
 * Foster for Lab Rescue of the Potomac (2018 - 2022)
