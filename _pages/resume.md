@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /cv/
+permalink: /resume/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 Professional Profile
