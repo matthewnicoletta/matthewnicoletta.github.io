@@ -55,7 +55,7 @@ Named a 2014 <a href='https://www.cutimes.com/2014/09/19/nicoletta-embraces-risk
 Recipients are credit union professionals under the age of 40 who have made an impact at their credit union or
 within the industry. Nominated by my peers for my creative problem-solving and team leadership.
 
-Service and leadership
+Service and Leadership
 =====
 * Volunteer Interviewer for McDonough School of Business EMBA Candidates (2021)
 * National President / Board Member for Phi Sigma Pi National Honor Fraternity (2008 - 2018)
