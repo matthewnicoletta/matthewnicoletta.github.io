@@ -6,12 +6,15 @@ author_profile: true
 
 ---
 
-Seasoned analytics expert with an extensive background in managing analytics teams responsible for business intelligence and marketing analytics. Domain expertise in digital marketing and financial services. Strong working knowledge of statistical methods, predictive modeling, and applied machine learning. Key technical skills: SQL, Python, Tableau Desktop. Certifications: AWS Cloud Practitioner and Google Analytics Individual Qualification (IQ). Education: MBA and MS in Business Analytics.
+Seasoned analytics expert with an extensive background in managing analytics teams responsible for business intelligence and marketing analytics. Domain expertise in digital marketing for travel and financial services. Strong working knowledge of statistical methods, predictive modeling, and applied machine learning. Key technical skills: SQL, Python, Tableau Desktop. Certifications: AWS Cloud Practitioner and Google Analytics. Education: MBA and MS in Business Analytics.
 
 Professional Experience
 =====
-**Instructor @ Georgetown University McDonough School of Business Office of Alumni Engagement - Washington, DC (2/22 - present)**
-* Design and deliver skills workshops for Alumni and students of McDonough School of Business, teaching programming (Python, R)  and software such as Excel for data science, data visualization, and personal finance applications.
+** Senior Manager, Marketing Analytics & Business Insights @ Brand USA (2/24 - present)**
+* Lead a performance measurement and reporting program aimed at optimizing international marketing activities and providing strategic insights to drive organizational growth.
+
+**Instructor @ Georgetown University McDonough School of Business Office of Alumni Engagement - Washington, DC (2/22 - 12/23)**
+* Design and deliver skills workshops for Alumni and students of McDonough School of Business, teaching programming (Python, SQL) and software such as Excel for data science, data visualization, and personal finance applications.
 
 **Lending Program & Analytics Manager @ Bank-Fund Staff Federal Credit Union - Washington, DC (11/18 - 4/20)**
 * Led the Analytics & Insights team of 5 analysts responsible for lending departmental business intelligence, including KPI benchmarking, reporting, and visualization (dashboarding). 
@@ -51,7 +54,7 @@ Education & Honors
 * Phi Sigma Pi National Honor Fraternity
 
 **CU Times TRAILBLAZER 40 BELOW**
-Named a 2014 <a href='https://www.cutimes.com/2014/09/19/nicoletta-embraces-risk-for-solutions-that-resonate-t40b/?t=trailblazers-40-below&slreturn=20230708181619'>TRAILBLAZER 40 BELOW</a> by CU Times, the leading national credit union industry journal.
+Named a 2014 <a href='https://www.cutimes.com/2014/09/19/nicoletta-embraces-risk-for-solutions-that-resonate-t40b/?t=trailblazers-40-below&slreturn=20230708181619'>TRAILBLAZER 40 BELOW</a> by Credit Union Times, the leading national credit union industry journal.
 Recipients are credit union professionals under the age of 40 who have made an impact at their credit union or
 within the industry. Nominated by my peers for my creative problem-solving and team leadership.
 
@@ -59,4 +62,4 @@ Service and Leadership
 =====
 * Volunteer Interviewer for McDonough School of Business EMBA Candidates (2021)
 * National President / Board Member for Phi Sigma Pi National Honor Fraternity (2008 - 2018)
-* Foster for Lab Rescue of the Potomac (2018 - 2022)
+* Foster for Lab Rescue of the Potomac (2018 - 2023)
