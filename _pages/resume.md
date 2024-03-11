@@ -10,7 +10,7 @@ Seasoned analytics expert with an extensive background in managing analytics tea
 
 Professional Experience
 =====
-** Senior Manager, Marketing Analytics & Business Insights @ Brand USA (2/24 - present)**
+**Senior Manager, Marketing Analytics & Business Insights @ Brand USA (2/24 - present)**
 * Lead a performance measurement and reporting program aimed at optimizing international marketing activities and providing strategic insights to drive organizational growth.
 
 **Instructor @ Georgetown University McDonough School of Business Office of Alumni Engagement - Washington, DC (2/22 - 12/23)**
