@@ -6,18 +6,18 @@ author_profile: true
 
 ---
 
-Seasoned analytics expert with an extensive background in managing analytics teams responsible for business intelligence and marketing analytics. Domain expertise in digital marketing for travel and financial services. Strong working knowledge of statistical methods, predictive modeling, and applied machine learning. Key technical skills: SQL, Python, Tableau Desktop. Certifications: AWS Cloud Practitioner and Google Analytics. Education: MBA and MS in Business Analytics.
+Seasoned analytics expert with an extensive background in successfully managing teams responsible for data strategy, business intelligence, and reporting and dashboarding. Domain expertise in marketing analytics in travel and tourism and financial services verticals. Strong working knowledge of statistical methods, predictive modeling, and applied machine learning. Key Technical Skills: SQL, Python, Tableau, Looker Studio, Google Cloud Platform (GCP), Amazon Web Services (AWS).
 
 Professional Experience
 =====
 **Senior Manager, Marketing Analytics & Business Insights @ Brand USA (2/24 - present)**
-* Lead a performance measurement and reporting program aimed at optimizing international marketing activities and providing strategic insights to drive organizational growth.
+* Lead a performance measurement and reporting program aimed at optimizing international marketing activities and providing strategic insights to drive organizational growth. 
 
 **Instructor @ Georgetown University McDonough School of Business Office of Alumni Engagement - Washington, DC (2/22 - 12/23)**
-* Design and deliver skills workshops for Alumni and students of McDonough School of Business, teaching programming (Python, SQL) and software such as Excel for data science, data visualization, and personal finance applications.
+* Designed and delivered skills workshops for over 200 Alumni and students of McDonough School of Business, including introductory programming and analytics workshops with Python, SQL, and Excel for selected topics in data science, data visualization, and personal finance applications.
 
 **Lending Program & Analytics Manager @ Bank-Fund Staff Federal Credit Union - Washington, DC (11/18 - 4/20)**
-* Led the Analytics & Insights team of 5 analysts responsible for lending departmental business intelligence, including KPI benchmarking, reporting, and visualization (dashboarding). 
+* Led the Analytics & Insights team of 5 analysts responsible for lending department business intelligence, including KPI benchmarking, reporting, and visualization (dashboarding). 
 
 **E-Marketing Manager @ Bank-Fund Staff Federal Credit Union - Washington, DC (4/11 - 11/18)**
 * Oversaw digital marketing strategy and measurement including ad and email campaign ROI, lower sales funnel metrics, and customer segmentation. Used causal inference and A/B testing for page and e-mail optimization. 
